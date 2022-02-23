@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.top-section{
+  height: 500px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-left: 150px;
+}
+.descrption{
+    color: blueviolet;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.explore{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+.top-title{
+    border-left: 4px solid red;
+      
+}
+.top-title h1{
+    font-size: 40px;
+    margin-left: 10px;
+    
+
+}
+.top-title span{
+    color: orange;
+}
+.about{
+    font-size: 20px;
+    font-weight:600;
+    color: teal;
+}
+.meddile{
+    font-size: 50px;
+    text-align: center;
+}
+.meddile span{
+    color: chocolate;
+}
+.meddile-section{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 150px;
+
+}
+.detail-1{
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.detail-1 img{
+    width:50%;
+}
+.detail-2{
+    background-color:rgb(245, 196, 196);
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.detail-2 img{
+    width:50%;
+}
+.detail-3{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.detail-3 img{
+    width:50%;
+}
+
+
+
+
+
+.imageadd{
+    background-image: url(images/shape/dream-bg.png);
+}
+
+.section2{
+  
+    margin-bottom: 100px;
+}
+.project h2{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: -3px;
+    word-spacing: -1px;
+    padding-top: 10px;
+    line-height: 154px;
+    color: #363958;
+}
+.project span{
+    color: #F86C61;
+}
+
+.project-img{
+    
+    margin: auto;
+    margin-left: 82px;
+}
+.project-img img{
+    width: 334px;
+    height: auto;
+}
+.footer{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+.footer h1{
+    color: aliceblue;
+    font-size: 30px;
+}
+.footer p{
+    color: gray;
+}
+.color{
+    color: blueviolet;
+}
